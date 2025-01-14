@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Aula 3 - Exercício 1</title>
+    </head>
+    <body>
+        <section id="album name / artist">
+        <h1>Ezra Collective</h1>
+        <h2>Dance, no one's watching</h2>
+        </section>
+        <section id="capa">
+            <img src="https://f4.bcbits.com/img/a4249844765_10.jpg" alt="Capa do álbum 'Dance, no one's watching', de Ezra Collective">
+        </section>
+        <section id="tracklist">
+            <ol>
+                <li>Intro</li>
+                <li>The Herald</li>
+                <li>Palm Wine</li>
+                <li>cloakroom link up. (Act 1)</li>
+                <li>God Gave Me Feet For Dancing (feat. Yazmin Lacey)</li>
+                <li>Ajala</li>
+                <li>The Traveller</li>
+                <li>in the dance</li>
+                <li>N29</li>
+                <li>No One's Watching Me (feat. Olivia Dean)</li>
+                <li>our element. (Act 3)</li>
+                <li>Hear My Cry</li>
+                <li>Shaking Body</li>
+                <li>Expensive</li>
+                <li>Streets is Calling (feat. M.anifest & Moonchild Sanelly)</li>
+                <li>lights on. (Act 4)</li>
+                <li>Why I Smile</li>
+                <li>Have Patience</li>
+                <li>Everybody</li>
+            </ol>
+        </section>
+    </body>
+
+</html>
