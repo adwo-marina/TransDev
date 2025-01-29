@@ -1,45 +1,45 @@
-p{
-    font-size: 25px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding-left: 15px;
+p {
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-left: 15px;
 }
-h1{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding-left: 15px;
-}
-
-.div1{
-    margin: 20px;
-    background-color: aquamarine;
-    color: darkblue;
-    border-style: solid;
-    border-width: 5px;
-    border-color: blue;
-    border-radius: 16px;
-    width: 400px;
-    height: 400px;
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-left: 15px;
 }
 
-.div2{
-    margin: 20px;
-    background-image: url(/img/fundo-div2.svg);
-    color:#ffffff;
-    border-style: groove;
-    border-width: 5px;
-    border-color: #ffffff;
-    border-radius: 16px;
-    height: 350px;
-    width: 500px;
+.div1 {
+  margin: 20px;
+  background-color: aquamarine;
+  color: darkblue;
+  border-style: solid;
+  border-width: 5px;
+  border-color: blue;
+  border-radius: 16px;
+  width: 400px;
+  height: 400px;
 }
-.div3{
-    margin: 20px;
-    background: rgb(2,0,36);
-    background: radial-gradient(circle, deeppink, tomato);
-    color: darkmagenta ;
-    border-style: double ;
-    border-width: 5px;
-    border-color: #505050;
-    border-radius: 16px;
-    width: 400px;
-    height: 600px;
+
+.div2 {
+  margin: 20px;
+  background-image: url(../img/fundo-div2.svg);
+  color: #ffffff;
+  border-style: groove;
+  border-width: 5px;
+  border-color: #ffffff;
+  border-radius: 16px;
+  height: 350px;
+  width: 500px;
+}
+.div3 {
+  margin: 20px;
+  background: rgb(2, 0, 36);
+  background: radial-gradient(circle, deeppink, tomato);
+  color: darkmagenta;
+  border-style: double;
+  border-width: 5px;
+  border-color: #505050;
+  border-radius: 16px;
+  width: 400px;
+  height: 600px;
 }
